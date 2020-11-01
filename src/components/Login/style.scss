@@ -1,0 +1,11 @@
+.wrap-login-component {
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  .login-image {
+    width: 120px;
+    margin: 20px;
+  }
+}
